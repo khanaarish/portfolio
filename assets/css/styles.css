@@ -517,32 +517,29 @@ img{
 .skills__css{
     width: 80%;
 }
-.skills__js{
-    width: 60%;
-}
-
-.skills__php{
-    width: 80%;
-}
-.skills__node{
+.skills__sql{
     width: 70%;
+}
+.skills__mysql{
+    width: 70%;
+}
+.skills__mongodb{
+    width: 70%;
+}
+.skills__powerbi{
+    width: 85%;
+}
+.skills__vizpython{
+    width: 75%;
 }
 .skills__python{
     width: 90%;
 }
-
-.skills__html{
-    width: 90%;
+.skills__excel{
+    width: 80%;
 }
-
-.skills__xd{
-    width: 90%;
-}
-.skills__sketch{
-    width: 85%;
-}
-.skills__photoshop{
-    width: 85%;
+.skills__tableau{
+    width: 80%;
 }
 
 .skills__close .skills__list{
